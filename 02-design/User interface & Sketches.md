@@ -1,6 +1,6 @@
 <img width="923" height="729" alt="image" src="https://github.com/user-attachments/assets/0dfd1308-6f5a-44a6-bc40-2490c8cf9cee" />
 
-Figure 1: Home Page.
+``Figure 1: Home Page.
 
 <img width="924" height="728" alt="image" src="https://github.com/user-attachments/assets/1c0211c8-3ce7-4b0a-8afc-c7fedaef9cf9" />
 
