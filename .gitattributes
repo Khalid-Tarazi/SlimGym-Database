@@ -1,0 +1,11 @@
+# Tell GitHub to ignore these files for language statistics
+*.csproj linguist-detectable=false
+*.sln linguist-detectable=false
+*.config linguist-detectable=false
+*.resx linguist-detectable=false
+*.xsd linguist-detectable=false
+*.xsc linguist-detectable=false
+*.xss linguist-detectable=false
+
+# Ensure C# files are counted
+*.cs linguist-detectable=true
