@@ -20,8 +20,3 @@ It covers the full Software Development Life Cycle from requirements analysis to
 - **05-documentation/** → Technical Documentation
 
 ---
-
-## 🚀 How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/username/database-project.git
