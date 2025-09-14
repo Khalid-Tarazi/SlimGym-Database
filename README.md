@@ -15,8 +15,8 @@ It covers the full Software Development Life Cycle from requirements analysis to
 ## 📑 Contents
 - **01-requirements/** → System requirements, use cases  
 - **02-design/** → ER diagrams, schema designs, UI sketches  
-- **03-database/** → SQL scripts (schema, data, stored procedures)  
+- **03-database/** → SQL scripts (schema, data validation, stored procedures)  
 - **04-application/** → Frontend & backend code  
-- **05-documentation/** → Technical Documentation
+- **05-documentation/** → Technical Documentation and Testing
 
 ---
