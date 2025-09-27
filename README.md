@@ -5,6 +5,7 @@ It covers the full Software Development Life Cycle from requirements analysis to
 
 ## 🛠️ Tech Stack used: 
 - SQL Server Management Studio 20
+- SQL
 - Visual Studio 2022
 - C#
 - .net Framework
